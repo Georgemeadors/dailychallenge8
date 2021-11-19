@@ -1,0 +1,12 @@
+.column{
+    height: 350px;
+    width: 50%;
+    
+float: left;
+}
+.row1-c2{
+    background-color: burlywood;
+}
+.row1-c1{
+    background-color: darkgray;
+}
